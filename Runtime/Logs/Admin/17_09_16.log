@@ -1,0 +1,3 @@
+[ 2017-09-16T11:57:14+08:00 ] 183.16.89.81 /myshop/index.php/admin
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+

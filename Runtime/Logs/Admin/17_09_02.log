@@ -1,0 +1,13 @@
+[ 2017-09-02T16:22:37+08:00 ] 116.25.126.143 /myshop/index.php/Admin/Index/head.html
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for /phpstudy/www/myshop/Runtime/Cache/f9a7a3b8c5470496160ded91c3c531d39833761e.file.head.html.php /phpstudy/www/myshop/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(/phpstudy/www/myshop/Runtime/Cache/f9a7a3b8c5470496160ded91c3c531d39833761e.file.head.html.php): No such file or directory /phpstudy/www/myshop/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
